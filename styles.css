@@ -59,7 +59,7 @@ body{
 /* Green */
 .ass2 {
   border-color: #50d36a;
-  color: green;
+  color: rgb(37, 158, 37);
 }
 
 .ass2:hover {
