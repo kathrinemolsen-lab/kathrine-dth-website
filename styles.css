@@ -1,0 +1,20 @@
+h1{
+    color: rgb(254, 246, 206);
+    font-size: 60px;
+    background: linear-gradient(135deg, #ffb751, #50d36a);
+    text-align: center;
+    margin: 0;
+    padding: 100px;
+}
+body{
+    background-color: #f9ecda;
+    margin: 10;
+    text-align: center;
+}
+div{
+    justify-content: center;
+}
+img{
+    width: 800px;
+    aspect-ratio: 1/1.5;
+}
