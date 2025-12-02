@@ -1,2 +1,2 @@
-# Reflections on the Website and Course Work
+# Reflections on the Course Work
 
