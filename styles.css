@@ -26,9 +26,17 @@ header {
 
 body{
     background-color: #f9ecda;
-    color: #43210e;
     margin: 50;
     text-align:center;
+    h1{
+      color: #3b1d0e;
+    }
+    h2{
+      color: #3b1d0e;
+    }
+    p{
+      color: #3b1d0e;
+    }
 }
 .btn {
   border: 6px solid black;
