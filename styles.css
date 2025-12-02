@@ -16,11 +16,11 @@ header {
   margin-bottom: 2px;
   h1{
     color: rgb(254, 246, 206);
-    font-size: 60px;
+    font-size: 50px;
     background: linear-gradient(135deg, #ffb751, #50d36a);
     text-align: center;
     margin: 0;
-    padding: 100px;
+    padding: 60px;
 }
 }
 
