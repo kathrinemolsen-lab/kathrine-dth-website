@@ -28,15 +28,6 @@ body{
     background-color: #f9ecda;
     margin: 50;
     text-align:center;
-    h1{
-      color: #3b1d0e;
-    }
-    h2{
-      color: #3b1d0e;
-    }
-    p{
-      color: #3b1d0e;
-    }
 }
 .btn {
   border: 6px solid black;
@@ -85,12 +76,15 @@ body{
 
   h1 {
     text-align: center;
+    color: #3f1f0e;
     }
     h2{
       text-align: left;
+      color: #3f1f0e;
     }
     p{
       text-align: justify;
+      color: #3f1f0e;
     }
   }
 img{
