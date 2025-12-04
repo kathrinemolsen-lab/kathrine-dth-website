@@ -72,6 +72,7 @@ body{
   padding-bottom: 40px;
   padding-left: 80px;
   padding-right: 80px;
+  font-size: 18px;
   margin:auto
 
   h1 {
@@ -85,7 +86,6 @@ body{
     p{
       text-align: justify;
       color: #3f1f0e;
-      font-size: 18px;
     }
   }
 img{
