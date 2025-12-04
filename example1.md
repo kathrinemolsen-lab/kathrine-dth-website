@@ -1,2 +1,2 @@
-# Reflections on the Course Work
+# Digital Humanities in English
 
