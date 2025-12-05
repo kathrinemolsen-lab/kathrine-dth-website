@@ -29,5 +29,7 @@ While the use of digital and quantitative methods in the field of English litera
 ## Works Cited
 
 Eve, Martin Paul. ‘Introduction’. The Digital Humanities and Literary Studies, Oxford University Press, 2022, pp. 1-27. https://doi.org/10.1093/oso/9780198850489.003.0001 
+
 Kopec, Andrew. ‘The Digital Humanities, Inc.: Literary Criticism and the Fate of a Profession’. PMLA, vol. 131, no. 2, 2016, pp. 324–39. JSTOR, http://www.jstor.org/stable/26158814 
+
 Thakre, Sarthak Satish. ‘Echoes of the Future: Bridging Tradition and Innovation in Digital Humanities and English Literature’. ShodhGyan-NU: Journal of Literature and Culture Studies, vol. 2, no. 1, 2024, pp. 16-23. https://doi.org/10.29121/shodhgyan.v2.i1.2024.21 
