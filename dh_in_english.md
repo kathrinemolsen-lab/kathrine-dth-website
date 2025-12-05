@@ -1,4 +1,4 @@
-# Assignment 1 – Digital Humanities in English
+# Digital Humanities in English
 
 ## Introduction
 

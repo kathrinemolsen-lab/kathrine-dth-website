@@ -1,4 +1,4 @@
-# Assignment 2 – APIs and GitHub
+# APIs and GitHub
  
 ## Introduction
  
